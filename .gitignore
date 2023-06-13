@@ -1,0 +1,8 @@
+# Toffee compiled library
+*.toffm
+# ToffeeScript code
+*.tscpt
+# ToffeeScript library
+*.candy
+# Toffee compiler definition
+*.toffc
